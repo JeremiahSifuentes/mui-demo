@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Tour from "./pages/Tour"
 import Transition1 from "./pages/Transition";
 
+// Wth
 function App() {
   return (
     <BrowserRouter>
